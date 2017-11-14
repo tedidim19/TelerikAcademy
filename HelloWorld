@@ -1,7 +1,0 @@
-package helloWorld;
-
-import java.lang.*;
-
-public class hi {
-	System.out.println("Hello, world!");
-}
